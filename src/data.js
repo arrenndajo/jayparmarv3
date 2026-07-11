@@ -22,7 +22,7 @@ export const PROJECTS = [
     demo: "",
     color: "#ac5e3c",
     gradient: "linear-gradient(120deg,#b56a44,#7e4a2e)",
-    image: "",
+    image: "/LeftoverLab.png",
   },
   // {
   //   badge: "ML",
@@ -45,7 +45,7 @@ export const PROJECTS = [
     // demo: "https://your-demo-link.com",
     color: "#7160a3",
     gradient: "linear-gradient(120deg,#8a7bbf,#52447e)",
-    image: "",
+    image: "/TrustBin.png",
   },
   {
     badge: "LLM · Google Colab",
