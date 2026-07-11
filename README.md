@@ -32,20 +32,3 @@ src/
     BackToTop.jsx
     BuildNotes.jsx         # sticky-note modal
 ```
-
-## Edit me
-
-Everything content-related is in `src/data.js`:
-
-- `LINKS` — GitHub handle, LinkedIn, email, resume path, YouTube, photography
-- `PROJECTS` — each has `repo`, `demo` (leave `""` to hide the demo link), `color` (hover accent) and `gradient` (top bar)
-- `XP` — experience rows
-- `NOTES` — the "off the clock" cards
-- `LAST_UPDATED`
-
-Hero/about copy lives in `src/components/Hero.jsx`.
-
-## Still placeholder
-
-`your-handle` (GitHub/LinkedIn), `you@email.com`, `/resume.pdf`, the project `demo` URLs,
-the photo block in Hero, and the TrustBin / AI Jurist / WeatherHub blurbs.
